@@ -1,3 +1,6 @@
 [submodule "tic_tac_toe"]
 	path = tic_tac_toe
 	url = git@github.com:rock4ts/tic_tac_toe.git
+[submodule "tic_tac_toe_engine"]
+	path = tic_tac_toe_engine
+	url = git@github.com:rock4ts/tic_tac_toe_engine.git
